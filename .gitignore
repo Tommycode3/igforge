@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+build/
+dist/
+*.egg-info/
+
+# Your real brand kit and credentials live in ~/.igforge; never commit copies here
+brand.json
+config.json
+.env*

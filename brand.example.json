@@ -1,0 +1,61 @@
+{
+  "handle": "@yourhandle",
+  "name": "Your Name",
+  "persona": "Solo founder building a hardware product, from PCB to firmware to app. Shares the real process, including failed bring-ups and wrong footprints.",
+  "audience": "Other technical founders, hardware and embedded engineers, people who follow build-in-public.",
+  "topics": [
+    "building a hardware product in public",
+    "self-taught PCB design",
+    "embedded firmware and real-time DSP",
+    "using AI agents as leverage for a solo founder",
+    "expensive mistakes and what they taught me"
+  ],
+  "voice": {
+    "tone": [
+      "direct and concrete, never motivational",
+      "first person, specific details and real numbers",
+      "one claim per post, backed by one fact",
+      "dry irony is fine, forced enthusiasm is not"
+    ],
+    "avoid": [
+      "strings of emoji (one at most, usually none)",
+      "generic hooks like 'Here are 5 lessons I learned'",
+      "LinkedIn jargon: 'grateful', 'humbled', 'game-changer', 'unlock'",
+      "generic hashtags like #motivation #entrepreneur",
+      "promising results that were not achieved",
+      "em dashes and bullet lists in the caption"
+    ]
+  },
+  "language": "en",
+  "cta": [
+    "If you are building hardware alone, message me.",
+    "Save this for the day you have to bring up your own board.",
+    "Next step goes up here."
+  ],
+  "palette": {
+    "bg": "#0E0E10",
+    "fg": "#FAF8F5",
+    "accent": "#E8FF59",
+    "muted": "#7E7E88",
+    "line": "#26262C"
+  },
+  "font": {
+    "display": "\"Helvetica Neue\", Helvetica, -apple-system, sans-serif",
+    "mono": "\"SF Mono\", \"Menlo\", ui-monospace, monospace"
+  },
+  "hashtags": {
+    "core": [
+      "#buildinpublic",
+      "#hardwarestartup",
+      "#embedded"
+    ],
+    "max": 12
+  },
+  "visual_style": "close-up editorial photography, hard natural light, electronics workbench, desaturated tones with a single lime accent, film grain, no text in the image, no faces",
+  "sources": {
+    "repos": [
+      "~/Code"
+    ],
+    "days": 21
+  }
+}
